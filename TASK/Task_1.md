@@ -1,3 +1,5 @@
+# Il sistema di gestione del negozio
+
 Creare un sistema che utilizzi Node.JS per lo sviluppo di una REST API in grado di fornire tutte le informazioni relative ad un elenco di oggetti caratterizzati da:
 
 - Nome
